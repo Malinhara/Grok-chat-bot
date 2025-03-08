@@ -1,0 +1,34 @@
+{
+  "name": "ai-saas-backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@langchain/core": "^0.3.42",
+    "@langchain/openai": "^0.4.2",
+    "@langchain/xai": "^0.0.2",
+    "axios": "^1.7.9",
+    "cors": "^2.8.5",
+    "cron": "^3.5.0",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "handlebars": "^4.7.8",
+    "helmet": "^8.0.0",
+    "jsonwebtoken": "^9.0.2",
+    "langchain": "^0.3.15",
+    "mongoose": "^8.9.2",
+    "multer": "^1.4.5-lts.1",
+    "node-cron": "^3.0.3",
+    "nodemailer": "^6.9.16",
+    "openai": "^4.81.0",
+    "together-ai": "^0.10.0",
+    "twitter-api-sdk": "^1.2.1",
+    "twitter-api-v2": "^1.19.0"
+  }
+}
