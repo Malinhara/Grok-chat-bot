@@ -1,7 +1,7 @@
 
-<h1>Yuri Ai 🤖</h1>
+<h1>Grok chat bot 🤖</h1>
 
-## Powered by the Deepseek and Eliza framework.
+## Powered by the Grok and Langchain framework.
 
 <p align="left">
   <a href="https://postimg.cc/06HR4NBW" target="_blank">
